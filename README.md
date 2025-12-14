@@ -8,6 +8,6 @@ Install dependencies:
 - Python: pip install numpy scipy networkx
 
 Run with:
-python .py
+python hypercube_solver.py
 
 The script outputs results to results_cubes.txt and results_relations.txt. Edit the 'dimension_end' variable in the file to change how many dimensions it processes.
