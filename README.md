@@ -1,4 +1,4 @@
-# 2-Selmer Rank Density: Cluster Setup Guide (System-Wide Install)
+# 2-Selmer Positive Proportions
 
 This guide provides step-by-step instructions to set up the environment and run the `matmethod_hyperfast_slurm.py` script on a Linux computer cluster using SLURM.
 
